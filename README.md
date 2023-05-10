@@ -124,7 +124,7 @@ Activity_main.xml:-
 
 ## OUTPUT
 
-![r](C:\Users\91959\Pictures\Screenshots\hey.png)
+![r](hey.png)
 
 
 ## RESULT
