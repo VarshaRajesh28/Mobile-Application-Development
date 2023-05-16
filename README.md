@@ -58,6 +58,7 @@ Registration Number : 212221220057
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## Main_Activity.java :
+```
 
 package com.example.My Application;
 import androidx.appcompat.app.AppCompatActivity;
@@ -108,6 +109,7 @@ protected void onDestroy(){
     t.show();
 }
 }
+```
 ## OUTPUT
 ![image](https://github.com/VarshaRajesh28/Mobile-Application-Development/assets/133751395/f59462db-5121-43a5-9491-1acc7c28caa7)
 ![image](https://github.com/VarshaRajesh28/Mobile-Application-Development/assets/133751395/9a4b055a-219b-4b02-b551-10754997be8d)
