@@ -126,18 +126,14 @@ tools:context=".MainActivity">
 ```
 
 ## OUTPUT
+
 ![1](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/0d443a0a-17f4-43ef-90da-3256daf46692)
 ![start](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/33c4870c-c1dd-449d-ba3b-f802e77f60c5)
 ![2](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/2fe8241a-9aff-444d-9055-0e66b6c27cbc)
 ![3](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/5516a249-79a4-45c0-9888-90d34b78a034)
 ![4](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/69f80e0e-ce50-498b-93e3-7f4661353b7c)
-
-
-
-
-
-
-
+![5](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/18f84813-ff6f-4f77-8784-5a25126980e4)
+![6](https://github.com/SWETHA6302/Mobile-Application-Development/assets/127874947/f31f0ce1-50c4-4c27-8623-fa51c525f623)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
